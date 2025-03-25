@@ -18,6 +18,15 @@
 💬 **Ask me about:** DevOps, Web Scaling, Microservices, and Browser Automation  
 
 ---
+## 💼 Where I Work
+🏢 **Company:** [pCloudy](https://www.pcloudy.com)  
+🎯 **Role:** Full Stack Developer (Cloud & Automation)  
+🚀 **Currently Working On:**  
+✅ Scaling **BrowserCloud V2** for seamless browser testing  
+✅ Optimizing **VM provisioning & cloud deployments**  
+✅ Implementing **real-time analytics for system dashboards**  
+
+---
 
 ## 🚀 **My Dev Tools 🫰**
 ### **🛠 Tech Stack**
