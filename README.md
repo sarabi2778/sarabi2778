@@ -57,7 +57,11 @@
 </p>
 
 ---
+## 📄 My Resume
+📌 **Check out my latest resume:**  
+[![Resume](https://img.shields.io/badge/My%20Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/sarabi2778/sarabi2778/blob/main/Abhishek-Sarabi-Resume-2025.pdf)
 
+---
 ## 🌎 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-sarabi-294307169/" target="_blank">
